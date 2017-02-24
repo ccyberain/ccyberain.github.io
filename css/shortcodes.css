@@ -156,6 +156,7 @@ Columns  Styles
 .cl-btn-bordered { 
 	border: 1px solid #fff; 
 	color: #fff;
+	background-color: #4bbabe; border-color: #4bbabe;
 	
 	-webkit-transition: .5s all ease;
 	-moz-transition: .5s all ease;

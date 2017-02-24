@@ -45,6 +45,12 @@ a{ color: #4bbabe; }
 	background-position: center center
 }
 
+.fs16 { font-size: 16px; }
+
+.divider { border: 0.1em solid #4bbabe; }
+
+.cl-black li p { margin: 0; }
+
 /* *********************************************************
 	Main Hero unit Styles 
 ********************************************************* */
